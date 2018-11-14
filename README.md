@@ -58,6 +58,6 @@ https://cloudbuilder.in/blogs/2015/03/31/openstack-neutron-plugins-and-agents/
 
 
 
-
+![alt text](https://github.com/kesavand/OpenstackNeutron/blob/master/NeutronArchitecture.PNG)
 
 
