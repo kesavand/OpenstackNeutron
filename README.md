@@ -56,12 +56,13 @@ Neutron Agents
 --------------
 The Neutron agents implement very specific networking functionality. Examples include DHCP Agent, L3 Agent 
 
-
-https://cloudbuilder.in/blogs/2015/03/31/openstack-neutron-plugins-and-agents/
-
-
 Neutron Architecture:
 ---------------------
+
+![alt text](https://github.com/kesavand/OpenstackNeutron/blob/master/Neutron.jpg)
+
+
+
 ![alt text](https://github.com/kesavand/OpenstackNeutron/blob/master/NeutronArchitecture.PNG)
 
 
