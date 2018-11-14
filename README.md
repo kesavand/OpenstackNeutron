@@ -27,14 +27,17 @@ Although ML2 is the sole core plugin, it can support multiple type drivers and m
 
 Type drivers
 -------------
+
 An ML2 type driver maintains type-specific network state, validates provider
 network attributes, and describes network segments using provider attributes.
 Provider attributes include network interface labels, segmentation IDs, and network
 types. Supported network types include local, flat, vlan, gre, and vxlan.
+
 Linux Bridge vs OpenVswitch type drivers
 ----------------------------------------
 The LinuxBridge type driver supports local, flat, vlan, and vxlan network types,
-while the Open vSwitch driver supports all of those as well as the gre network type
+while the Open vSwitch driver supports all of those as well as the gre network type.
+
 Mechanism Drivers
 -----------------
 An ML2 mechanism driver is responsible for taking information established by
