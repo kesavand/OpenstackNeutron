@@ -60,7 +60,8 @@ The Neutron agents implement very specific networking functionality. Examples in
 https://cloudbuilder.in/blogs/2015/03/31/openstack-neutron-plugins-and-agents/
 
 
-
+Neutron Architecture:
+---------------------
 ![alt text](https://github.com/kesavand/OpenstackNeutron/blob/master/NeutronArchitecture.PNG)
 
 
